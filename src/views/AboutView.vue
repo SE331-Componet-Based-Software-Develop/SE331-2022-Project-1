@@ -6,7 +6,7 @@
         Github Link:
         https://github.com/SE331-Componet-Based-Software-Develop/SE331-2022-Project-1
       </h4>
-      <h4>Group Member:</h4>
+      <h4>Group Members:</h4>
       <h4>649529440 Mingming Jia</h4>
       <h4>649529442 Zhenxv Wang</h4>
     </div>
